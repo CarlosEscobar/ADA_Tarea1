@@ -1,0 +1,9 @@
+- El peor de los casos para la bubsqueda en un vector ordenado son en realidad dos casos.
+
+- El algoritmo calcula la mitad dada una posicion inicial y final y por ende reduce el numero de datos en cada iteracion a la mitad.
+- Entonces los 2 peores casos es que el numero que quieran buscar este en la posicion inicial o en la posicion final.
+- Ya que el algoritmo tendra que reducir el numero de datos la mayor de las veces posibles hasta llegar a la posicion inicial y la final.
+
+- Cabe destacar que dado un arreglo de n numeros, esta iteracion de cualquiera del peor de los casos no es (n/2).
+
+- Se incluye una prueba de escritorio para ver el numero de iteraciones.

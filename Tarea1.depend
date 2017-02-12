@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1486923381 source:c:\users\carlos escobar\desktop\currenttri\analisisdealgoritmos\tareas\tarea1\main.cpp
+	<vector>
+	<string>
+	<iostream>
+	<algorithm>
+	"Test.h"
+
+1486922052 c:\users\carlos escobar\desktop\currenttri\analisisdealgoritmos\tareas\tarea1\test.h
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+
+1486923131 source:c:\users\carlos escobar\desktop\currenttri\analisisdealgoritmos\tareas\tarea1\test.cpp
+	"Test.h"
+
